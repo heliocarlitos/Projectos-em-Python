@@ -1,6 +1,6 @@
 # Documentação
 
-Criar uma documentação extremamente detalhada para explicar cada linha de código em uma interface gráfica completa com Python seria bastante extenso e impraticável neste formato. No entanto, posso fornecer um guia passo a passo com explicações sobre as principais seções do código para criar uma interface simples usando a biblioteca Tkinter.
+Criar uma documentação extremamente detalhada para explicar cada linha de código em uma interface gráfica completa com Python seria bastante extenso e impraticável neste formato. No entanto, criei um guia passo a passo com explicações sobre as principais seções do código para criar uma interface simples usando a biblioteca Tkinter.
 
 ### Guia Passo a Passo para Criar uma Interface Gráfica com Tkinter em Python:
 
